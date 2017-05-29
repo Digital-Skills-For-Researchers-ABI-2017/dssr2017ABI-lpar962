@@ -14,6 +14,8 @@ Results derived from modelling simulations of ventilation, perfusion and gas exc
 
 Several performance measures, such as sensitivity and specificity (e.g., via receiver operating characteristic (ROC) curves) will be adopted to quantify the accuracy and reliability of modelling predictions.
 
+Due to the nature of this project, publications in highly ranked peer-reviewed scientific journals sharing the findings derived from this project with the wider scientific, engineering and clinical communities are one of the measures of success for this project.
+
 ## Team agreement
 To ensure constructive communication and fruitful collaboration amongst internal collaborators (from the Auckland Bioengineering Institute, ABI, the University of Auckland), the following ‘tools’ are adopted:
 -	Fortnightly supervisory meeting;
