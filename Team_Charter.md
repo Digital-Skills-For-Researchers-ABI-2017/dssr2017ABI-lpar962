@@ -17,6 +17,21 @@ Several performance measures, such as sensitivity and specificity (e.g., via rec
 Due to the nature of this project, publications in highly ranked peer-reviewed scientific journals sharing the findings derived from this project with the wider scientific, engineering and clinical communities are one of the measures of success for this project.
 
 ## Team agreement
+
+### Behaviour agreement
+-	Treat each other with respect at all times;
+-	No discrimination;
+-	Honesty and humility – ask questions if needed and be open to constructive criticism;
+-	Ask supervisors and peers for feedback;
+-	Accountability;
+-	Punctuality;
+-	Timely and efficiently deliver on your promises;
+-	Communication is key to collaboration and progress;
+-	Self-assessment of own progress;
+-	Progress review from supervisors and peers (if requested).
+
+### Communication agreement
+
 To ensure constructive communication and fruitful collaboration amongst internal collaborators (from the Auckland Bioengineering Institute, ABI, the University of Auckland), the following ‘tools’ are adopted:
 -	Fortnightly supervisory meeting;
 -	Meetings with supervisors as required;
