@@ -7,7 +7,7 @@ To improve current understanding of the pathophysiology of acute respiratory dis
 A novel patient-specific biophysical computational model is being developed and will be validated for fulfilling the aims of this Ph.D. project outlined in the above-mentioned “vision”.
 
 ## Success criteria
-Results derived from modelling simulations of ventilation, perfusion and gas exchange will be compared with those obtained from retrospective and prospective clinical imaging data from collaborators for ensuring appropriateness and correctness of the computational model being developed:
+Results derived from modelling simulations of ventilation, perfusion and gas exchange are being and will be compared with those obtained from retrospective and prospective clinical imaging data from collaborators for ensuring appropriateness and correctness of the computational model being developed:
 -	Firstly, on relatively simple, conceptualised geometries simulating blocks of healthy and pathological lung tissue;
 -	Secondly, upon retrospective clinical data pertaining to healthy subjects;
 -	Eventually, upon retrospective and prospective clinical data on patients with ARDS.
