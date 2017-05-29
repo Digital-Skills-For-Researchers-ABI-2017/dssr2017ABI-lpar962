@@ -11,13 +11,15 @@ Results derived from modelling simulations of ventilation, perfusion and gas exc
 -	Firstly, on relatively simple, conceptualised geometries simulating blocks of healthy and pathological lung tissue;
 -	Secondly, upon retrospective clinical data pertaining to healthy subjects;
 -	Eventually, upon retrospective and prospective clinical data on patients with ARDS.
+
 Several performance measures, such as sensitivity and specificity (e.g., via receiver operating characteristic (ROC) curves) will be adopted to quantify the accuracy and reliability of modelling predictions.
 
 ## Team agreement
 To ensure constructive communication and fruitful collaboration amongst internal collaborators (from the Auckland Bioengineering Institute, ABI, the University of Auckland), the following ‘tools’ are adopted:
--	Fortnightly supervisory meetings;
+-	Fortnightly supervisory meeting;
 -	Meetings with supervisors as required;
 -	Asana for sharing findings and research questions with supervisors and within the Lungs and Respiratory System Research Group. 
+
 Furthermore, the following ‘tools’ are adopted with external collaborators:
 -	Monthly group meeting on Skype;
 -	Dropbox for sharing anonymised patient raw data, metadata and findings for quality assurance and comparison purposes.
